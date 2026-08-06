@@ -1,2 +1,5 @@
 aiogram
 yt-dlp
+aiofiles
+aiohttp
+
